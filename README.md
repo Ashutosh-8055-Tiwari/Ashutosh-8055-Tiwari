@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-8055-Tiwari/Ashutosh-8055-Tiwari/blob/main/github-header-image%20(1).png)
+<img src='https://github.com/Ashutosh-8055-Tiwari/Ashutosh-8055-Tiwari/blob/main/github-header-image%20(1).png' alt='logo' width='1000'/>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -22,8 +22,8 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="background-color:white; alt="express" width="40" height="40"/> </a></a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-8055-tiwari&show_icons=true&locale=en&layout=compact" alt="ashutosh-8055-tiwari" /></p>
+<p><img  align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-8055-tiwari&show_icons=true&locale=en&layout=compact" width='500' alt="ashutosh-8055-tiwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-8055-tiwari&show_icons=true&locale=en" alt="ashutosh-8055-tiwari" /></p>
+<p>&nbsp;<img  align='center' src="https://github-readme-stats.vercel.app/api?username=ashutosh-8055-tiwari&show_icons=true&locale=en" width='500'alt="ashutosh-8055-tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-8055-tiwari&" alt="ashutosh-8055-tiwari" /></p>
+<p><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-8055-tiwari&" width='500' alt="ashutosh-8055-tiwari" /></p>
