@@ -1,3 +1,5 @@
+![logo](https://github.com/Ashutosh-8055-Tiwari/Ashutosh-8055-Tiwari/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
